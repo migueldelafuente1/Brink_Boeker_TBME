@@ -2,4 +2,4 @@
 
 2018 End Master Project
 
-Two body matrix element for Brink-Boeker Schematic Interaction.
+Two body matrix element for Brink-Boeker Schematic Interaction. Python 2 code.
