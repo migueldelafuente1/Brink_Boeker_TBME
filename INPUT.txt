@@ -1,0 +1,17 @@
+=========================================================================
+INPUT FILE (use one tabulation to separate name from arguments)
+ do not change the names, for functionalities add TENSOR or SPIN_ORBIT
+=========================================================================
+Interaction	Brink_Boeker
+File_Name	bb_SP
+A_Mass	4
+H_Omega	23.8
+b_length	1.3204
+Q_Numbers	001	103	101
+QN_Energies
+Core		0	0
+BB_mu	0.7	1.4
+BB_Wign	714.085	-72.612
+BB_Majo	-443.085	-44.79
+BB_Barl	0.0	0.0
+BB_Heis	0.0	0.0
